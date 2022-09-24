@@ -1,0 +1,22 @@
+{
+  "name": "inversify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "inversify": "^6.0.1",
+    "reflect-metadata": "^0.1.13",
+    "typescript": "^4.8.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.18",
+    "prettier": "^2.7.1"
+  }
+}
